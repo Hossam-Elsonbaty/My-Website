@@ -3,7 +3,7 @@ import React from 'react';
 import img7 from '../Images/github.webp'
 import img8 from '../Images/linkedin.webp'
 import img14 from '../Images/mostafa_sonbaty.webp'
-import { Link } from 'react-router-dom';
+import { Link } from 'react-scroll';
 const Profile = () => {
   return (
     <section id="profile">
@@ -22,7 +22,7 @@ const Profile = () => {
             Download CV
           </button>
           <button className="btn btn-color-1">
-            <Link to="contact" smooth={true}>Contact Info</Link>
+            <Link to="contact" smooth={false}>Contact Info</Link>
           </button>
         </div>
         <div id="socials-container">

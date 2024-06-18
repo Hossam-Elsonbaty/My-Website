@@ -28,7 +28,7 @@ const About = () => {
                 className="icon"
               />
               <h3>Experience</h3>
-              <p>2+ years <br />Frontend Development</p>
+              <p>3+ years <br />Frontend Development</p>
             </div>
             <div className="details-container">
               <img
@@ -42,12 +42,7 @@ const About = () => {
           </div>
           <div className="text-container">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-              reprehenderit et laborum, rem, dolore eum quod voluptate
-              exercitationem nobis, nihil esse debitis maxime facere minus sint
-              delectus velit in eos quo officiis explicabo deleniti dignissimos.
-              Eligendi illum libero dolorum cum laboriosam corrupti quidem,
-              reiciendis ea magnam? Nulla, impedit fuga!
+              I'm a Frontend Developer with 3 years of experience, working on projects ranging from simple CRUD applications to complex, large-scale accounting systems. Collaborating with my team, I built responsive web pages that seamlessly integrate with back-end APIs.
             </p>
           </div>
         </div>
