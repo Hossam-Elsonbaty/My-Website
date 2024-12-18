@@ -17,7 +17,7 @@ const Profile = () => {
         <div className="btn-container">
           <button
             className="btn btn-color-2"
-            onClick={() => window.open('../assets/Mostafa Sonbaty Resume.pdf')}
+            onClick={() => window.open('/assets/Mostafa Sonbaty - Resume.pdf')}
           >
             Download CV
           </button>

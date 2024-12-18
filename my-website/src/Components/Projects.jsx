@@ -24,13 +24,13 @@ const Projects = () => {
             <div className="btn-container">
               <button
                 className="btn btn-color-2 project-btn"
-                onClick={() => window.location.href='https://github.com/'}
+                onClick={() => window.location.href='https://github.com/Hossam-Elsonbaty/Al-ArqamAcademy'}
               >
                 Github
               </button>
               <button
                 className="btn btn-color-2 project-btn"
-                onClick={() => window.location.href='https://github.com/'}
+                onClick={() => window.location.href='https://al-arqam-academy.vercel.app/'}
               >
                 Live Demo
               </button>
@@ -48,13 +48,13 @@ const Projects = () => {
             <div className="btn-container">
               <button
                 className="btn btn-color-2 project-btn"
-                onClick={() => window.location.href='https://github.com/'}
+                onClick={() => window.location.href='https://github.com/Hossam-Elsonbaty/general-ecommerce'}
               >
                 Github
               </button>
               <button
                 className="btn btn-color-2 project-btn"
-                onClick={() => window.location.href='https://github.com/'}
+                onClick={() => window.location.href='https://general-ecommerce-one.vercel.app/'}
               >
                 Live Demo
               </button>
