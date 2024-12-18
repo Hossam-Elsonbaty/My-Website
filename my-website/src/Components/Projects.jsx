@@ -1,8 +1,8 @@
 // src/Projects.js
 import React from 'react';
 import img2 from '../Images/arrow.webp'
-import img11 from '../Images/project-1.webp'
-import img12 from '../Images/project-2.webp'
+import img11 from '../Images/Screenshot 2024-12-18 204807.png'
+import img12 from '../Images/Screenshot 2024-12-18 204142.png'
 import img13 from '../Images/project-3.webp'
 
 const Projects = () => {
@@ -20,7 +20,7 @@ const Projects = () => {
                 className="project-img"
               />
             </div>
-            <h2 className="experience-sub-title project-title">Project One</h2>
+            <h2 className="experience-sub-title project-title">Academy Website</h2>
             <div className="btn-container">
               <button
                 className="btn btn-color-2 project-btn"
@@ -44,7 +44,7 @@ const Projects = () => {
                 className="project-img"
               />
             </div>
-            <h2 className="experience-sub-title project-title">Project Two</h2>
+            <h2 className="experience-sub-title project-title">E-Commerce</h2>
             <div className="btn-container">
               <button
                 className="btn btn-color-2 project-btn"
@@ -68,7 +68,7 @@ const Projects = () => {
                 className="project-img"
               />
             </div>
-            <h2 className="experience-sub-title project-title">Project Three</h2>
+            <h2 className="experience-sub-title project-title">ERP System</h2>
             <div className="btn-container">
               <button
                 className="btn btn-color-2 project-btn"

@@ -21,7 +21,6 @@ const Experience = () => {
                 />
                 <div>
                   <h3>HTML</h3>
-                  <p>Experienced</p>
                 </div>
               </article>
               <article>
@@ -32,7 +31,6 @@ const Experience = () => {
                 />
                 <div>
                   <h3>CSS</h3>
-                  <p>Experienced</p>
                 </div>
               </article>
               <article>
@@ -43,7 +41,6 @@ const Experience = () => {
                 />
                 <div>
                   <h3>SASS</h3>
-                  <p>Intermediate</p>
                 </div>
               </article>
               <article>
@@ -54,7 +51,6 @@ const Experience = () => {
                 />
                 <div>
                   <h3>JavaScript</h3>
-                  <p>Intermediate</p>
                 </div>
               </article>
               <article>
@@ -65,7 +61,6 @@ const Experience = () => {
                 />
                 <div>
                   <h3>React.js</h3>
-                  <p>Experienced</p>
                 </div>
               </article>
               <article>
@@ -76,7 +71,26 @@ const Experience = () => {
                 />
                 <div>
                   <h3>Next.js</h3>
-                  <p>Intermediate</p>
+                </div>
+              </article>
+              <article>
+                <img
+                  src={img3}
+                  alt="Experience icon"
+                  className="icon"
+                />
+                <div>
+                  <h3>Node.js</h3>
+                </div>
+              </article>
+              <article>
+                <img
+                  src={img3}
+                  alt="Experience icon"
+                  className="icon"
+                />
+                <div>
+                  <h3>Express.js</h3>
                 </div>
               </article>
               <article>
@@ -87,7 +101,6 @@ const Experience = () => {
                 />
                 <div>
                   <h3>Git</h3>
-                  <p>Experienced</p>
                 </div>
               </article>
               <article>
@@ -98,7 +111,6 @@ const Experience = () => {
                 />
                 <div>
                   <h3>GitHub</h3>
-                  <p>Experienced</p>
                 </div>
               </article>
               <article>
@@ -109,7 +121,6 @@ const Experience = () => {
                 />
                 <div>
                   <h3>Bootstrap</h3>
-                  <p>Intermediate</p>
                 </div>
               </article>
               <article>
@@ -120,7 +131,6 @@ const Experience = () => {
                 />
                 <div>
                   <h3>Tailwind</h3>
-                  <p>Basic</p>
                 </div>
               </article>
               <article>
@@ -131,7 +141,6 @@ const Experience = () => {
                 />
                 <div>
                   <h3>TypeScript</h3>
-                  <p>Basic</p>
                 </div>
               </article>
               <article>
@@ -142,7 +151,7 @@ const Experience = () => {
                 />
                 <div>
                   <h3>Material UI</h3>
-                  <p>Intermediate</p>
+                  
                 </div>
               </article>
               <article>
@@ -153,7 +162,7 @@ const Experience = () => {
                 />
                 <div>
                   <h3>Prime React</h3>
-                  <p>Intermediate</p>
+                  
                 </div>
               </article>
               <article>
@@ -164,7 +173,7 @@ const Experience = () => {
                 />
                 <div>
                   <h3>AntDesign</h3>
-                  <p>Intermediate</p>
+                  
                 </div>
               </article>
               <article>
@@ -175,7 +184,17 @@ const Experience = () => {
                 />
                 <div>
                   <h3>DevExtreme</h3>
-                  <p>Intermediate</p>
+                  
+                </div>
+              </article>
+              <article>
+                <img
+                  src={img3}
+                  alt="Experience icon"
+                  className="icon"
+                />
+                <div>
+                  <h3>Vercel</h3>
                 </div>
               </article>
             </div>

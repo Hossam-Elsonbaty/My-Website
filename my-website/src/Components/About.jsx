@@ -1,10 +1,9 @@
 // src/About.js
 import React from 'react';
-import img1 from '../Images/about-pic.webp'
 import img2 from '../Images/arrow.webp'
 import img4 from '../Images/education.webp'
 import img6 from '../Images/experience.webp'
-import img15 from '../Images/WhatsApp Image Hossam.webp'
+import img15 from '../Images/my pic2.jpg'
 
 const About = () => {
   return (
