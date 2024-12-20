@@ -72,18 +72,18 @@ const Projects = () => {
             <div className="btn-container">
               <button
                 className="btn btn-color-2 project-btn"
-                onClick={() => window.location.href='https://github.com/'}
+                onClick={() => window.location.href='https://github.com/Quadra-Code/React_ERP'}
               >
                 Github
               </button>
               <button
                 className="btn btn-color-2 project-btn"
-                onClick={() => window.location.href='https://github.com/'}
+                onClick={() => window.location.href='https:'}
               >
                 Live Demo
               </button>
             </div>
-          </div>
+          </div>//github.com/
         </div>
       </div>
       <img
