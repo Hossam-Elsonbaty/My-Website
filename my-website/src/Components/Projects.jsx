@@ -2,8 +2,8 @@
 import React from 'react';
 import img2 from '../Images/arrow.webp'
 import img11 from '../Images/Screenshot 2024-12-18 204807.png'
-import img12 from '../Images/Screenshot 2024-12-18 204142.png'
-import img13 from '../Images/project-3.webp'
+import img12 from '../Images/goldenbeit.png'
+import img13 from '../Images/quadracode.png'
 
 const Projects = () => {
   return (
@@ -20,7 +20,7 @@ const Projects = () => {
                 className="project-img"
               />
             </div>
-            <h2 className="experience-sub-title project-title">Academy Website</h2>
+            <h2 className="experience-sub-title project-title">Education Academy Website</h2>
             <div className="btn-container">
               <button
                 className="btn btn-color-2 project-btn"
@@ -30,7 +30,7 @@ const Projects = () => {
               </button>
               <button
                 className="btn btn-color-2 project-btn"
-                onClick={() => window.location.href='https://al-arqam-academy.vercel.app/'}
+                onClick={() => window.location.href='https://alarqamacademy.org'}
               >
                 Live Demo
               </button>
@@ -44,17 +44,17 @@ const Projects = () => {
                 className="project-img"
               />
             </div>
-            <h2 className="experience-sub-title project-title">E-Commerce</h2>
+            <h2 className="experience-sub-title project-title">Real Estate <br/> E-Commerce</h2>
             <div className="btn-container">
               <button
                 className="btn btn-color-2 project-btn"
-                onClick={() => window.location.href='https://github.com/Hossam-Elsonbaty/general-ecommerce'}
+                onClick={() => window.location.href='https://github.com/quadra4code/golden-beit'}
               >
                 Github
               </button>
               <button
                 className="btn btn-color-2 project-btn"
-                onClick={() => window.location.href='https://general-ecommerce-one.vercel.app/'}
+                onClick={() => window.location.href='https://goldenbeit.com'}
               >
                 Live Demo
               </button>
@@ -68,22 +68,22 @@ const Projects = () => {
                 className="project-img"
               />
             </div>
-            <h2 className="experience-sub-title project-title">ERP System</h2>
+            <h2 className="experience-sub-title project-title">Software solutions company website</h2>
             <div className="btn-container">
               <button
                 className="btn btn-color-2 project-btn"
-                onClick={() => window.location.href='https://github.com/Quadra-Code/React_ERP'}
+                onClick={() => window.location.href='https://github.com/Hossam-Elsonbaty/Quadra-Code-website'}
               >
                 Github
               </button>
               <button
                 className="btn btn-color-2 project-btn"
-                onClick={() => window.location.href='https:'}
+                onClick={() => window.location.href='https://quadra-code-website.vercel.app/'}
               >
                 Live Demo
               </button>
             </div>
-          </div>//github.com/
+          </div>
         </div>
       </div>
       <img

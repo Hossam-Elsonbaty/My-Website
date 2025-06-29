@@ -8,7 +8,7 @@ const Profile = () => {
   return (
     <section id="profile">
       <div className="section__pic-container">
-        <img src={img14} alt="John Doe profile picture" />
+        <img src={img14} className='hero-pic' alt="Mostafa Sonbaty profile picture" />
       </div>
       <div className="section__text">
         <p className="section__text__p1">Hello, I'm</p>
