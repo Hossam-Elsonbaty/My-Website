@@ -1,5 +1,4 @@
 // src/Profile.js
-import React from 'react';
 import img7 from '../Images/github.webp'
 import img8 from '../Images/linkedin.webp'
 import img14 from '../Images/mostafa_sonbaty.webp'
@@ -17,7 +16,7 @@ const Profile = () => {
         <div className="btn-container">
           <button
             className="btn btn-color-2"
-            onClick={() => window.open('/assets/Mostafa Sonbaty - Resume.pdf')}
+            onClick={() => window.open('Mostafa Sonbaty-Resume.pdf', '_blank')}
           >
             Download CV
           </button>
